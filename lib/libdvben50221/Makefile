@@ -10,6 +10,7 @@ includes = asn_1.h                 \
            en50221_app_lowspeed.h  \
            en50221_app_mmi.h       \
            en50221_app_rm.h        \
+           en50221_app_sas.h       \
            en50221_app_smartcard.h \
            en50221_app_tags.h      \
            en50221_app_teletext.h  \
@@ -29,6 +30,7 @@ objects  = asn_1.o                 \
            en50221_app_lowspeed.o  \
            en50221_app_mmi.o       \
            en50221_app_rm.o        \
+           en50221_app_sas.o       \
            en50221_app_smartcard.o \
            en50221_app_teletext.o  \
            en50221_app_utils.o     \
