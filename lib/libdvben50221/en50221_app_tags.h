@@ -101,4 +101,9 @@
 #define TAG_EPG_ENQUIRY         	0x9f8f00
 #define TAG_EPG_REPLY           	0x9f8f01
 
+/* SAS */
+#define TAG_SAS_CON_REQ         	0x9f9a00
+#define TAG_SAS_CON_CNF           	0x9f9a01
+#define TAG_SAS_ASYNC_MSG         	0x9f9a07
+
 #endif
